@@ -9,8 +9,11 @@ O sistema deve validar os seguintes aspectos de um objeto Person:
 - <strong> Idade: </strong> deve estar dentro do intervalo de 1 a 200 anos.
 
 - <strong> E-mail: </strong> a pessoa deve ter pelo menos um e-mail associado a ela, e o nome do e-mail deve seguir o formato: inicio@meio.fim (onde cada parte tem pelo menos um caractere).
+<div align="center">
 
+![image](https://github.com/user-attachments/assets/c318c10a-8a85-438e-a12b-7c9f4a0bc429)
 
+</div>
 <h2> ▶️ Manual de execução </h2>
 
 🔗 1. Clone o repositório:
